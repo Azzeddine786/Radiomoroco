@@ -74,7 +74,7 @@
   {
     "name": "Radio 2M",
     "description": "أخبار ورياضة وموسيقى",
-    "streamUrl": "http://live2m.ice.infomaniak.ch/live2m-high.mp3",
+    "streamUrl": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2021-4-26/401b5514-f59f-7e6c-e5b6-fd72f9a5ade0.mp3",
     "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio_2M_logo.png"
   },
   {
