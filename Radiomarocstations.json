@@ -94,5 +94,29 @@
     "description": "إذاعة عالمية/مغربية",
     "streamUrl": "https://radioatbir.radioca.st/stream",
     "logoUrl": "https://cdn.instant.audio/images/logos/radio-co-ma/atbir.png"
+  },
+  {
+    "name": "Radio Plus",
+    "description": "موسيقى وأخبار",
+    "streamUrl": "https://radioplus.ice.infomaniak.ch/radioplus-high.mp3",
+    "logoUrl": "https://www.radioplus.ma/images/logo.png"
+  },
+  {
+    "name": "Luxe Radio",
+    "description": "إذاعة الرفاهية",
+    "streamUrl": "http://luxeradio.ice.infomaniak.ch/luxeradio-192.mp3",
+    "logoUrl": "https://www.luxeradio.ma/logo.png"
+  },
+  {
+    "name": "Radio Sawa",
+    "description": "أخبار وموسيقى عربية",
+    "streamUrl": "https://mbn-channel-08.akacast.akamaistream.net/7/27/233456/v1/ibb.akacast.akamaistream.net/mbn_channel_08",
+    "logoUrl": "https://www.radiosawa.com/sites/g/files/exfaci651/f/logo.png"
+  },
+  {
+    "name": "Radio Amazigh",
+    "description": "برامج أمازيغية",
+    "streamUrl": "http://cdnamazigh.ice.infomaniak.ch/cdnamazigh-64.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Radio_Amazigh.svg/1200px-Logo_Radio_Amazigh.svg.png"
   }
 ]
