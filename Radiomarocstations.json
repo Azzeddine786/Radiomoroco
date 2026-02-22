@@ -120,6 +120,12 @@
       "streamUrl": "http://cdnamazigh.ice.infomaniak.ch/cdnamazigh-64.mp3",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Radio_Amazigh.svg/1200px-Logo_Radio_Amazigh.svg.png"
     }
+    {
+  "name": "Radio Azawan",
+  "description": "إذاعة أمازيغية",
+  "streamUrl": "https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3",
+  "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radio_azawan_logo.png"
+    }
   ],
   "ads": {
     "admob_enabled": true,
