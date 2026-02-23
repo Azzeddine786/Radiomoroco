@@ -103,10 +103,10 @@
       "logoUrl": "https://www.radioplus.ma/images/logo.png"
     },
     {
-      "name": "Luxe Radio",
-      "description": "إذاعة الرفاهية",
-      "streamUrl": "http://luxeradio.ice.infomaniak.ch/luxeradio-192.mp3",
-      "logoUrl": "https://www.luxeradio.ma/logo.png"
+      "name": "skyrock",
+      "description": "skyrock Casablanca",
+      "streamUrl": "https://icecast.skyrock.net/s/casa_aac_128k?tvr_name=radiofr&tvr_section1=64aac",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/skyrockcasablanca.webp"
     },
     {
       "name": "Radio Sawa",
