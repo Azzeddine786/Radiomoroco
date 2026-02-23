@@ -115,10 +115,10 @@
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio%20sawa.png"
     },
     {
-      "name": "Radio Amazigh",
-      "description": "برامج أمازيغية",
-      "streamUrl": "http://cdnamazigh.ice.infomaniak.ch/cdnamazigh-64.mp3",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Radio_Amazigh.svg/1200px-Logo_Radio_Amazigh.svg.png"
+      "name": "rim Radio",
+      "description": " إذاعة الأخبار",
+      "streamUrl": "https://streaming.rimradio.ma/live.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio-Rim-logo.png"
     },
     {
       "name": "radio tangermed",
