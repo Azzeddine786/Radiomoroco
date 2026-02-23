@@ -81,8 +81,8 @@
     {
       "name": "Zine Bladi",
       "description": "ثقافة وأخبار",
-      "streamUrl": "https://streaming.radio.co/sb5a9442bb/listen",
-      "logoUrl": "https://www.zinebladi.com/images/logo.png"
+      "streamUrl": "https://asmaki.ma:8000/radio.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/zine%20bladi.png"
     },
     {
       "name": "Radio Yabiladi",
