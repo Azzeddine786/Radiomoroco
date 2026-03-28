@@ -73,6 +73,66 @@
       "logoUrl": "https://bridge.medi1.com/images/webradios/new/chanson%20fran%C3%A7aise.jpg?123"
     },
     {
+      "name": "Medi 1 DJ",
+      "description": "ميكسات وأجواء الدي جي",
+      "streamUrl": "https://live.medi1.com/Dj",
+      "logoUrl": "https://bridge.medi1.com/images/webradios/new/dj.jpg?123"
+    },
+    {
+      "name": "Hit Radio",
+      "description": "100% Hits - Maroc",
+      "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/refs/heads/main/Hit%20Radio.png"
+    },
+    {
+      "name": "Radio Mars",
+      "description": "رياضة وموسيقى",
+      "streamUrl": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+      "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/refs/heads/main/Radio%20Mars.jpg"
+    },
+    {
+      "name": "Med Radio",
+      "description": "مجتمع وثقافة",
+      "streamUrl": "https://medradio.ice.infomaniak.ch/medradio-128.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/48/Med_Radio_logo.svg/1200px-Med_Radio_logo.svg.png"
+    },
+    {
+      "name": "Chada FM",
+      "description": "الفن والموسيقى",
+      "streamUrl": "https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/chunklist_w2053981091.m3u8",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/Chada_FM_logo.svg/1200px-Chada_FM_logo.svg.png"
+    },
+    {
+      "name": "MFM Radio",
+      "description": "أخبار ونقاش",
+      "streamUrl": "https://a5.asurahosting.com:7980/radio.mp3",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/MFM_Radio_logo.svg/1200px-MFM_Radio_logo.svg.png"
+    },
+    {
+      "name": "Radio Aswat",
+      "description": "مجتمع",
+      "streamUrl": "https://aswat.ice.infomaniak.ch/aswat-high.mp3",
+      "logoUrl": "https://www.radioaswat.com/images/logo.png"
+    },
+    {
+      "name": "Atlantic Radio",
+      "description": "اقتصاد وموسيقى",
+      "streamUrl": "https://atlantic-sonic.nindohost.net:9300/stream/1/.mp3",
+      "logoUrl": "https://www.atlanticradio.ma/images/logo.png"
+    },
+    {
+      "name": "Medina FM",
+      "description": "الموسيقى والأخبار",
+      "streamUrl": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+      "logoUrl": "https://www.medinafm.ma/images/logo.png"
+    },
+    {
+      "name": "Cap Radio",
+      "description": "إذاعة إقليمية",
+      "streamUrl": "https://listen.radioking.com/radio/710810/stream/776360",
+      "logoUrl": "https://www.capradio.ma/images/logo.png"
+    },
+    {
       "name": "Radio Quran",
       "description": "القرآن والدكر",
       "streamUrl": "http://s2.voscast.com:12312/;.mp3",
