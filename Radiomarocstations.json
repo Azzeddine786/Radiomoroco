@@ -333,14 +333,18 @@
   ],
   "ads": {
     "admob_enabled": true,
-    "admob_app_id": "",
-    "admob_interstitial_id": "",
-    "admob_native_id": "",
+    "admob_app_id": "ca-app-pub-6369463662612526~",
+    "admob_interstitial_id": "ca-app-pub-/1234567890",
+    "admob_native_id": "ca-app-pub-/0987654321",
     "facebook_enabled": true,
     "facebook_app_id": "1710920939885506",
     "facebook_interstitial_id": "1710920939885506_1724154951895438",
     "facebook_native_id": "1710920939885506_1724154181895515",
-    "interstitial_click_count": 1,
-    "native_interval": 4
+    "ironSource_enabled": true,
+    "ironSource_app_key": "27013285d",
+    "ironSource_interstitial_id": "default",
+    "ironSource_banner_id": "default",
+    "interstitial_click_count": 3,
+    "native_interval": 6
   }
 }
