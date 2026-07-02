@@ -332,19 +332,30 @@
     }
   ],
   "ads": {
-    "admob_enabled": true,
-    "admob_app_id": "ca-app-pub-6369463662612526~",
-    "admob_interstitial_id": "ca-app-pub-/1234567890",
-    "admob_native_id": "ca-app-pub-/0987654321",
-    "facebook_enabled": true,
-    "facebook_app_id": "1710920939885506",
-    "facebook_interstitial_id": "1710920939885506_1724154951895438",
-    "facebook_native_id": "1710920939885506_1724154181895515",
-    "ironSource_enabled": true,
-    "ironSource_app_key": "27013285d",
-    "ironSource_interstitial_id": "27013285d",
-    "ironSource_banner_id": "27013285d",
-    "interstitial_click_count": 3,
-    "native_interval": 6
+    "admobEnabled": true,
+    "admobAppId": "ca-app-pub-6369463662612526~6880646534",
+    "admobInterstitialId": "ca-app-pub-/1033173712",
+    "admobNativeId": "ca-app-pub-/3419835294",
+    "admobBannerId": "ca-app-pub-/1234567890",
+    "admobOpenId": "ca-app-pub-/0987654321",
+    
+    "facebookEnabled": true,
+    "facebookAppId": "1710920939885506",
+    "facebookInterstitialId": "",
+    "facebookNativeId": "",
+    "facebookBannerId": "#YOUR_PLACEMENT_ID",
+    
+    "ironSourceEnabled": true,
+    "ironSourceAppKey": "27013285d",
+    "ironSourceInterstitialId": "DefaultInterstitial",
+    "ironSourceBannerId": "DefaultBanner",
+    "ironSourceRewardedId": "DefaultRewardedVideo",
+    "ironSourceBannerPosition": "top",
+    "ironSourceBannerSize": "BANNER",
+    
+    "interstitialClickCount": 3,
+    "nativeInterval": 6,
+    "openOnStart": true,
+    "nativeEnabled": true
   }
 }
