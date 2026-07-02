@@ -342,8 +342,8 @@
     "facebook_native_id": "1710920939885506_1724154181895515",
     "ironSource_enabled": true,
     "ironSource_app_key": "27013285d",
-    "ironSource_interstitial_id": "default",
-    "ironSource_banner_id": "default",
+    "ironSource_interstitial_id": "27013285d",
+    "ironSource_banner_id": "27013285d",
     "interstitial_click_count": 3,
     "native_interval": 6
   }
