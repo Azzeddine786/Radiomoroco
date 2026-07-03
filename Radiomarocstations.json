@@ -345,11 +345,11 @@
     "facebookNativeId": "",
     "facebookBannerId": "#YOUR_PLACEMENT_ID",
     
-    "ironSourceEnabled": true,
+  "ironSourceEnabled": true,
     "ironSourceAppKey": "27013285d",
-    "ironSourceInterstitialId": "27013285d",
-    "ironSourceBannerId": "DefaultBanner",
-    "ironSourceRewardedId": "DefaultRewardedVideo",
+    "ironSourceInterstitialId": "default",
+    "ironSourceBannerId": "default",
+    "ironSourceRewardedId": "default",
     "ironSourceBannerPosition": "top",
     "ironSourceBannerSize": "BANNER",
     
