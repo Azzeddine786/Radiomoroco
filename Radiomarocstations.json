@@ -346,7 +346,7 @@
     "facebookBannerId": "#YOUR_PLACEMENT_ID",
     
   "ironSourceEnabled": true,
-    "ironSourceAppKey": "1b927ddcd",
+    "ironSourceAppKey": "",
     "ironSourceInterstitialId": "default",
     "ironSourceBannerId": "default",
     "ironSourceRewardedId": "default",
