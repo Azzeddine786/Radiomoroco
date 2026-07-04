@@ -332,21 +332,21 @@
     }
   ],
   "ads": {
-    "admobEnabled": true,
+    "admobEnabled": false,
     "admobAppId": "ca-app-pub-6369463662612526~6880646534",
     "admobInterstitialId": "ca-app-pub-/1033173712",
     "admobNativeId": "ca-app-pub-/3419835294",
     "admobBannerId": "ca-app-pub-/1234567890",
     "admobOpenId": "ca-app-pub-/0987654321",
     
-    "facebookEnabled": true,
+    "facebookEnabled": false,
     "facebookAppId": "1710920939885506",
     "facebookInterstitialId": "",
     "facebookNativeId": "",
     "facebookBannerId": "#YOUR_PLACEMENT_ID",
     
   "ironSourceEnabled": true,
-    "ironSourceAppKey": "18f251e4d",
+    "ironSourceAppKey": "2564938d5",
     "ironSourceInterstitialId": "default",
     "ironSourceBannerId": "default",
     "ironSourceRewardedId": "default",
