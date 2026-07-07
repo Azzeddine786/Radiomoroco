@@ -355,12 +355,12 @@
     
     "ironSourceAdmobBanner": "",
     "ironSourceAdmobInterstitial": "",
-    "ironSourceAdmobNative": "1710920939885506_1724154181895515",
+    "ironSourceAdmobNative": "",
     "ironSourceAdmobOpen": "",
     
     "ironSourceFacebookBanner": "",
     "ironSourceFacebookInterstitial": "",
-    "ironSourceFacebookNative": "",
+    "ironSourceFacebookNative": "1710920939885506_1724154181895515",
     
     "interstitialClickCount": 3,
     "nativeInterval": 6,
