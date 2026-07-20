@@ -175,8 +175,8 @@
       "logoUrl": "https://www.radioplus.ma/images/logo.png"
     },
     {
-      "name": "skyrock",
-      "description": "skyrock Casablanca",
+      "name": "Skyrock Casablanca",
+      "description": "Skyrock Casablanca",
       "streamUrl": "https://icecast.skyrock.net/s/casa_aac_128k?tvr_name=radiofr&tvr_section1=64aac",
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/skyrockcasablanca.webp"
     },
@@ -187,13 +187,13 @@
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio%20sawa.png"
     },
     {
-      "name": "rim Radio",
+      "name": "Rim Radio",
       "description": "إذاعة الأخبار",
       "streamUrl": "https://streaming.rimradio.ma/live.mp3",
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/Radio-Rim-logo.png"
     },
     {
-      "name": "radio tangermed",
+      "name": "Radio Tangermed",
       "description": "إذاعة طنجة المتوسط",
       "streamUrl": "https://radiotangermed-22.ice.infomaniak.ch/radiotangermed-22-128.mp3",
       "logoUrl": "https://raw.githubusercontent.com/Azzeddine786/Radiomoroco/main/radiotangermed.png"
@@ -287,70 +287,28 @@
       "description": "HIT RADIO - Togo",
       "streamUrl": "https://hrtogo.ice.infomaniak.ch/hr-togo-20.mp3",
       "logoUrl": "https://www.hitradio.ma/_next/static/media/new_togo-2.08a554c6.png"
-    },
-    {
-      "name": "HIT RADIO 100% MARRUECOS ESPAÑA",
-      "description": "HIT RADIO - Marruecos España",
-      "streamUrl": "https://marruecosespana.ice.infomaniak.ch/marruecosespana-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100--Marruecos-Espa%C3%B1a.jpeg"
-    },
-    {
-      "name": "HIT RADIO 100% CLASSIC",
-      "description": "HIT RADIO - 100% Classic",
-      "streamUrl": "https://gold.ice.infomaniak.ch/gold-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100__CLASSIC.jpg"
-    },
-    {
-      "name": "HIT RADIO 100% PARTY",
-      "description": "HIT RADIO - 100% Party",
-      "streamUrl": "https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100__PARTY.jpg"
-    },
-    {
-      "name": "HIT RADIO 100% MGHARBA",
-      "description": "HIT RADIO - 100% Mgharba",
-      "streamUrl": "https://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100__MGHARBA.jpg"
-    },
-    {
-      "name": "HIT RADIO 100% TIKTOK",
-      "description": "HIT RADIO - 100% TikTok",
-      "streamUrl": "https://buzz.ice.infomaniak.ch/buzz-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100__TIKTOK.jpg"
-    },
-    {
-      "name": "HIT RADIO 100% URBAN",
-      "description": "HIT RADIO - 100% Urban",
-      "streamUrl": "https://rnb.ice.infomaniak.ch/rnb-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100__URBAN.jpg"
-    },
-    {
-      "name": "HIT RADIO 100% WAY WAY",
-      "description": "HIT RADIO - 100% Way Way",
-      "streamUrl": "https://wayway.ice.infomaniak.ch/wayway-128.mp3",
-      "logoUrl": "https://hittradio.com/uploads/webradio/100__WAY_WAY.jpg"
     }
   ],
   "ads": {
-    "admobEnabled": true,
-    "admobAppId": "ca-app-pub-~6880646534",
-    "admobInterstitialId": "ca-app-/1033173712",
-    "admobNativeId": "ca-app-pub-/",
-    "admobBannerId": "ca-app-pub-/",
-    "admobOpenId": "ca-app-pub-/0987654321",
+    "admobEnabled": false,
+    "admobAppId": "",
+    "admobInterstitialId": "",
+    "admobNativeId": "",
+    "admobBannerId": "",
+    "admobOpenId": "",
     
-    "facebookEnabled": true,
-    "facebookAppId": "1710920939885506",
+    "facebookEnabled": false,
+    "facebookAppId": "",
     "facebookInterstitialId": "",
-    "facebookNativeId": "1710920939885506_1724154181895515",
+    "facebookNativeId": "",
     "facebookBannerId": "",
     
     "ironSourceEnabled": true,
     "ironSourceAppKey": "27013285d",
-    "ironSourceInterstitialId": "default",
-    "ironSourceBannerId": "default",
-    "ironSourceRewardedId": "default",
-    "ironSourceBannerPosition": "top",
+    "ironSourceInterstitialId": "interstitial",
+    "ironSourceBannerId": "banner",
+    "ironSourceRewardedId": "rewarded",
+    "ironSourceBannerPosition": "bottom",
     "ironSourceBannerSize": "BANNER",
     
     "ironSourceAdmobBanner": "",
@@ -360,11 +318,12 @@
     
     "ironSourceFacebookBanner": "",
     "ironSourceFacebookInterstitial": "",
-    "ironSourceFacebookNative": "1710920939885506_1724154181895515",
+    "ironSourceFacebookNative": "",
     
-    "interstitialClickCount": 2,
+    "interstitialClickCount": 3,
     "nativeInterval": 6,
     "openOnStart": true,
-    "nativeEnabled": true
+    "nativeEnabled": true,
+    "nativeAdPlacementName": "DefaultNative"
   }
 }
